@@ -1,0 +1,8 @@
+/Users/aronbergman/RiderProjects/FitnessApp/ClassLibrary/bin/Debug/netcoreapp3.0/ClassLibrary.deps.json
+/Users/aronbergman/RiderProjects/FitnessApp/ClassLibrary/bin/Debug/netcoreapp3.0/ClassLibrary.dll
+/Users/aronbergman/RiderProjects/FitnessApp/ClassLibrary/bin/Debug/netcoreapp3.0/ClassLibrary.pdb
+/Users/aronbergman/RiderProjects/FitnessApp/ClassLibrary/obj/Debug/netcoreapp3.0/ClassLibrary.csprojAssemblyReference.cache
+/Users/aronbergman/RiderProjects/FitnessApp/ClassLibrary/obj/Debug/netcoreapp3.0/ClassLibrary.AssemblyInfoInputs.cache
+/Users/aronbergman/RiderProjects/FitnessApp/ClassLibrary/obj/Debug/netcoreapp3.0/ClassLibrary.AssemblyInfo.cs
+/Users/aronbergman/RiderProjects/FitnessApp/ClassLibrary/obj/Debug/netcoreapp3.0/ClassLibrary.dll
+/Users/aronbergman/RiderProjects/FitnessApp/ClassLibrary/obj/Debug/netcoreapp3.0/ClassLibrary.pdb

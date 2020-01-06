@@ -1,0 +1,11 @@
+/Users/aronbergman/RiderProjects/FitnessApp/ConsoleApp/bin/Debug/netcoreapp3.0/ConsoleApp
+/Users/aronbergman/RiderProjects/FitnessApp/ConsoleApp/bin/Debug/netcoreapp3.0/ConsoleApp.deps.json
+/Users/aronbergman/RiderProjects/FitnessApp/ConsoleApp/bin/Debug/netcoreapp3.0/ConsoleApp.runtimeconfig.json
+/Users/aronbergman/RiderProjects/FitnessApp/ConsoleApp/bin/Debug/netcoreapp3.0/ConsoleApp.runtimeconfig.dev.json
+/Users/aronbergman/RiderProjects/FitnessApp/ConsoleApp/bin/Debug/netcoreapp3.0/ConsoleApp.dll
+/Users/aronbergman/RiderProjects/FitnessApp/ConsoleApp/bin/Debug/netcoreapp3.0/ConsoleApp.pdb
+/Users/aronbergman/RiderProjects/FitnessApp/ConsoleApp/obj/Debug/netcoreapp3.0/ConsoleApp.csprojAssemblyReference.cache
+/Users/aronbergman/RiderProjects/FitnessApp/ConsoleApp/obj/Debug/netcoreapp3.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/aronbergman/RiderProjects/FitnessApp/ConsoleApp/obj/Debug/netcoreapp3.0/ConsoleApp.AssemblyInfo.cs
+/Users/aronbergman/RiderProjects/FitnessApp/ConsoleApp/obj/Debug/netcoreapp3.0/ConsoleApp.dll
+/Users/aronbergman/RiderProjects/FitnessApp/ConsoleApp/obj/Debug/netcoreapp3.0/ConsoleApp.pdb

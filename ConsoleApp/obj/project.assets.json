@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ClassLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.0",
+        "compile": {
+          "bin/placeholder/ClassLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary/ClassLibrary.csproj",
+      "msbuildProject": "../ClassLibrary/ClassLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "ClassLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/aronbergman/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/aronbergman/RiderProjects/FitnessApp/ConsoleApp/ConsoleApp.csproj",
+      "projectName": "ConsoleApp",
+      "projectPath": "/Users/aronbergman/RiderProjects/FitnessApp/ConsoleApp/ConsoleApp.csproj",
+      "packagesPath": "/Users/aronbergman/.nuget/packages/",
+      "outputPath": "/Users/aronbergman/RiderProjects/FitnessApp/ConsoleApp/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/aronbergman/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "/Users/aronbergman/RiderProjects/FitnessApp/ClassLibrary/ClassLibrary.csproj": {
+              "projectPath": "/Users/aronbergman/RiderProjects/FitnessApp/ClassLibrary/ClassLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    }
+  }
+}
