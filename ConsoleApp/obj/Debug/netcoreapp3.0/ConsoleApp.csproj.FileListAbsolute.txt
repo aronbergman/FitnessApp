@@ -9,3 +9,6 @@
 /Users/aronbergman/RiderProjects/FitnessApp/ConsoleApp/obj/Debug/netcoreapp3.0/ConsoleApp.AssemblyInfo.cs
 /Users/aronbergman/RiderProjects/FitnessApp/ConsoleApp/obj/Debug/netcoreapp3.0/ConsoleApp.dll
 /Users/aronbergman/RiderProjects/FitnessApp/ConsoleApp/obj/Debug/netcoreapp3.0/ConsoleApp.pdb
+/Users/aronbergman/RiderProjects/FitnessApp/ConsoleApp/bin/Debug/netcoreapp3.0/ClassLibrary.dll
+/Users/aronbergman/RiderProjects/FitnessApp/ConsoleApp/bin/Debug/netcoreapp3.0/ClassLibrary.pdb
+/Users/aronbergman/RiderProjects/FitnessApp/ConsoleApp/obj/Debug/netcoreapp3.0/ConsoleApp.csproj.CopyComplete

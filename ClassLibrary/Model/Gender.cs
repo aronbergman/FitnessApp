@@ -4,7 +4,8 @@ namespace ClassLibrary.Model
 {
     /// <summary>
     /// Пол
-    /// </summary>
+    /// </summary
+    [Serializable]
     public class Gender
     {
         /// <summary>

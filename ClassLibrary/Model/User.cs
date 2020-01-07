@@ -2,6 +2,7 @@ using System;
 
 namespace ClassLibrary.Model
 {
+    [Serializable]
     public class User
     {
         /// <summary>
@@ -28,6 +29,7 @@ namespace ClassLibrary.Model
         /// Высота пользователя
         /// </summary>
         public double Height { get; set; }
+
         /// <summary>
         /// Создать нового пользователя
         /// </summary>
